@@ -1,5 +1,7 @@
 # Adidas-Sales-Dashboard
 
+![Demo GIF](Project.gif)
+
 <!-- Demo GIF -->
 <p align="center">
   <img src="demo.gif" alt="Adidas Sales Dashboard Demo" width="100%" />
